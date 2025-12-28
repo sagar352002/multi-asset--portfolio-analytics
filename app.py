@@ -187,7 +187,7 @@ st.markdown(
                    target="_blank" class="icon-circle">
                     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
                 </a>
-                <a href="https://github.com/sagar352002"
+                <a href="https://github.com/sagar352002?tab=stars"
                    target="_blank" class="icon-circle">
                     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
                 </a>
@@ -209,6 +209,7 @@ st.markdown(
 
 
   
+
 
 
 
