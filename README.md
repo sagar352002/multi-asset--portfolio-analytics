@@ -180,7 +180,11 @@ Follow the steps below to set up and run the application on a Windows system:
     ````bash
     streamlit run app.py
 
+## 🎓 Skills Demonstrated
 
+`Portfolio Theory` `Risk Management` `Python` `Data Analytics` `Financial Modeling` `Statistical Optimization` `Interactive Dashboards` `Quantitative Finance` `ESG Analysis` `Crisis Modeling`
+
+---
 
 
 
@@ -214,3 +218,11 @@ I gratefully acknowledge the following studies, which have directly shaped the *
   https://www.tandfonline.com/doi/full/10.1080/20430795.2016.1234909  
 
 These studies enhanced the **analytical depth, robustness, and practical relevance** of this portfolio analytics project. Their contributions are sincerely acknowledged.
+
+
+
+## 📫 Connect
+
+**Questions or collaboration opportunities?** Feel free to reach out!
+
+⭐ **Star this repo** if you find it valuable for portfolio analytics!
