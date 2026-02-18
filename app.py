@@ -9,10 +9,7 @@ from features.tab2_covid_dashboard import render_tab2_covid_dashboard
 from ui.theme import apply_amc_theme
 
 
-# ==================================
-# APPLY GLOBAL AMC THEME (ONE LINE)
-# ==================================
-apply_amc_theme()
+
 
 # ==================================================
 # PAGE CONFIG (ONLY ONCE)
@@ -209,6 +206,7 @@ st.markdown(
 
 
   
+
 
 
 
